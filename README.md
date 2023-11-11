@@ -6,4 +6,7 @@ Currently, IceCube is active in versions 1.20 to 1.20.40, and you can stay updat
 
 Towards the path of becoming the best server in Iran - IceCube welcomes you!
 
+# Mirai Author
+Discord Auther: https://discord.gg/sYreBfSWZn
 # Discord
+https://discord.gg/vQvtqYKYTd
